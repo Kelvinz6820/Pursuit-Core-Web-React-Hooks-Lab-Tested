@@ -5,7 +5,7 @@
 ## Refactor Using Hooks and Class Components
 
 When you fork this repo, all of the existing Todo app's tests will be passing initially. Your task is to refactor the existing Todo app's components so that it's `Class Components` and `Lifecycle Methods` are replaced with `Functional Components` and `Hooks` and to make sure the tests still pass once you have accomplished the refactor. The existing cypress tests only confirm that the UI functions, not that `Hooks` are implemented.
-
+   
 The existing Todo app has the following functionality:
 - Users can create a new Todo by typing text into an `input` inside a `form` and pressing enter
 - Shows a list of todos with id `#todos` underneath that input
